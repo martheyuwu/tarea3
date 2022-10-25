@@ -4,3 +4,5 @@
  si no llegase a quedar de esa forma, se deberia agregar manualmente los archivos (todos los .c y .h, los otros no)
  y luego se compila con f9 o con el boton
  2. según lo revisado, todo funciona correctamente
+3. debería mejorar el orden
+4. no hay puntos ni de premio ni de castigto, ya que soy solo.
